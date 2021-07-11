@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764276631172",
+    "firebase_url": "https://todo-fbc2f.firebaseio.com",
+    "project_id": "todo-fbc2f",
+    "storage_bucket": "todo-fbc2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764276631172:android:d8f865119cced36840c4d1",
+        "android_client_info": {
+          "package_name": "com.android.mlgear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764276631172-5rn9ucd3q08441bl0nu5d3i65o0vn52o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhVm0eiyp4MFoK2h4fTfok3A5oA5hzXqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764276631172-5rn9ucd3q08441bl0nu5d3i65o0vn52o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

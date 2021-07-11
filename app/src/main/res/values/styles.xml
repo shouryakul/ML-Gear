@@ -1,0 +1,15 @@
+
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#090D10</item>
+        <item name="colorPrimaryDark">#090D10</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppThemeNoActionbar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#090D10</item>
+        <item name="colorPrimaryDark">#090D10</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+</resources>
